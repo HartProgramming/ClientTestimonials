@@ -1,0 +1,64 @@
+body{
+    margin: 0;
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+}
+
+h1{
+    margin: auto;
+    justify-content: center;
+    display: flex;
+}
+
+h2{
+    margin: auto;
+    justify-content: center;
+    display: flex;
+    margin-top: 30px;
+    margin-bottom: -50px;
+}
+
+#head{
+    flex-direction: column;
+    margin-top: 150px;
+    margin-bottom: -100px;
+}
+
+#stars{
+    width: 70px;
+    height: 20px;
+    margin: auto;
+}
+
+#person{
+    width: 90px;
+    height: 90px;
+    border: 2px solid red;
+    border-radius: 50%;
+    margin: auto;
+}
+
+#block{
+    margin: auto;
+    justify-content: center;
+    display: flex;
+}
+
+#test{
+    height: 300px;
+    width: 600px;
+    border: 3px solid black;
+    margin: auto;
+    margin-top: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+button{
+    height: 40px;
+    width: 40px;
+    margin-top: 320px;
+}
